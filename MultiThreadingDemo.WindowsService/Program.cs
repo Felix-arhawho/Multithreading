@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MutiThreadingDemo.DataAccess.Repositories;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.ServiceProcess;
@@ -20,6 +21,9 @@ namespace MultiThreadingDemo.WindowsService
                 new SandboxService()
             };
             ServiceBase.Run(ServicesToRun);
+
+            //var threadProcessor = new ThreadProcessorRepository();
+            //threadProcessor.GenerateUserDetails();
         }
     }
 }

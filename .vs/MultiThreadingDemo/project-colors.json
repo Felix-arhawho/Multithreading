@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37ad4b53-a3dd-4624-bab0-718beec1de48": {
+      "ProjectGuid": "37ad4b53-a3dd-4624-bab0-718beec1de48",
+      "DisplayName": "MultiThreadingDemo.WindowsService",
+      "ColorIndex": 0
+    },
+    "cbfeeb21-5816-4046-ab89-5dce90ec290b": {
+      "ProjectGuid": "cbfeeb21-5816-4046-ab89-5dce90ec290b",
+      "DisplayName": "MultiThreadingDemo.Domain",
+      "ColorIndex": 1
+    },
+    "3c04b56e-bfda-42a2-aca9-3b53f231a27d": {
+      "ProjectGuid": "3c04b56e-bfda-42a2-aca9-3b53f231a27d",
+      "DisplayName": "MutiThreadingDemo.DataAccess",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

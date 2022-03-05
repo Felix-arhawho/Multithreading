@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadingDemo.WindowsService", "MultiThreadingDemo.WindowsService\MultiThreadingDemo.WindowsService.csproj", "{37AD4B53-A3DD-4624-BAB0-718BEEC1DE48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadingDemo.Domain", "MultiThreadingDemo.Domain\MultiThreadingDemo.Domain.csproj", "{CBFEEB21-5816-4046-AB89-5DCE90EC290B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutiThreadingDemo.DataAccess", "MutiThreadingDemo.DataAccess\MutiThreadingDemo.DataAccess.csproj", "{3C04B56E-BFDA-42A2-ACA9-3B53F231A27D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{37AD4B53-A3DD-4624-BAB0-718BEEC1DE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37AD4B53-A3DD-4624-BAB0-718BEEC1DE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37AD4B53-A3DD-4624-BAB0-718BEEC1DE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBFEEB21-5816-4046-AB89-5DCE90EC290B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFEEB21-5816-4046-AB89-5DCE90EC290B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFEEB21-5816-4046-AB89-5DCE90EC290B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFEEB21-5816-4046-AB89-5DCE90EC290B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C04B56E-BFDA-42A2-ACA9-3B53F231A27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C04B56E-BFDA-42A2-ACA9-3B53F231A27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C04B56E-BFDA-42A2-ACA9-3B53F231A27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C04B56E-BFDA-42A2-ACA9-3B53F231A27D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

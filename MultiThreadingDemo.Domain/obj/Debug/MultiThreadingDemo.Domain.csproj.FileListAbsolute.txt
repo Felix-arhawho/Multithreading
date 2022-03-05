@@ -1,0 +1,17 @@
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\bin\Debug\MultiThreadingDemo.Domain.dll
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\bin\Debug\MultiThreadingDemo.Domain.pdb
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\obj\Debug\MultiThreadingDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\obj\Debug\MultiThreadingDemo.Domain.dll
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\obj\Debug\MultiThreadingDemo.Domain.pdb
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\bin\Debug\MultiThreadingDemo.Domain.dll.config
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\bin\Debug\EntityFramework.dll
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\bin\Debug\EntityFramework.xml
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\obj\Debug\MultiThreadingDemo.Domain.csproj.CopyComplete
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\obj\Debug\MultiThreadingDemo.Domain.Migrations.InitialCreate.resources
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\obj\Debug\MultiThreadingDemo.Domain.csproj.GenerateResource.cache
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\obj\Debug\MultiThreadingDemo.Domain.Migrations.IsBridged.resources
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\obj\Debug\MultiThreadingDemo.Domain.Migrations.CollectiveInformationJson.resources
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\obj\Debug\MultiThreadingDemo.Domain.Migrations.UserIdDatatype.resources
+C:\Repositories\MultiThreadingDemo\MultiThreadingDemo.Domain\obj\Debug\MultiThreadingDemo.Domain.csproj.AssemblyReference.cache
